@@ -1,0 +1,5 @@
+plugins:
+  quickmobiler_enabled:
+    default: true
+    client: true
+
